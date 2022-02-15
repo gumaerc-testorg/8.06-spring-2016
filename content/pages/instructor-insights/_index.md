@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
 ---
@@ -62,28 +64,6 @@ Mostly juniors
 ### Breakdown by Major
 
 Mostly physics and math majors
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![8 rows of fixed furniture tablet arm chairs facing blackboards and a rectangle table.]({{< resource_file 96922b8e-ff74-3a1b-8823-4b246acfab95 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with a seating capacity of 143 students. The room was equipped with sliding chalkboards, wireless internet, a LCD video projector, and a sound system.
-    
-*   ![4 rows of tables and chairs facing blackboards at the front of the room. Windows line the left wall.]({{< resource_file 3481cb5f-7c95-cb30-42c0-b2a64b572c22 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in a classroom with blackboards and moveable tables and chairs.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
 title: Providing Feedback on Student Writing
 uid: a9911784-afac-d75d-c421-c3470aab0d54
