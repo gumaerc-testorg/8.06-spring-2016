@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets and term paper assigned for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ DUE
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps1)
+{{% resource_link 9e5cd6e6-9ca0-d192-1291-978d7ce3c1c7 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 3
@@ -31,7 +33,7 @@ Lecture 3
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps2)
+{{% resource_link eba80a2e-fb96-e86a-5b55-ced57635c875 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 5
@@ -40,7 +42,7 @@ Lecture 5
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps3)
+{{% resource_link 9317eff2-ecf1-5780-2767-935b6ee57534 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 6
@@ -49,7 +51,7 @@ Lecture 6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps4)
+{{% resource_link a3cd457a-e595-a71a-ba99-3b7c307231ab "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 8
@@ -58,7 +60,7 @@ Lecture 8
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps5)
+{{% resource_link a5c78034-b8e5-11fe-8cd4-bc664a5931ca "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 10
@@ -67,7 +69,7 @@ Lecture 10
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps6)
+{{% resource_link 5f956c3d-6ed6-2df3-9964-530cae2fae5a "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 12
@@ -76,7 +78,7 @@ Lecture 12
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps7)
+{{% resource_link 86761659-c8d4-c6be-d52c-10457055cce7 "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 15
@@ -85,7 +87,7 @@ Lecture 15
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps8)
+{{% resource_link e364932c-530d-c6ce-e196-a8a2e47d60e3 "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 19
@@ -94,7 +96,7 @@ Lecture 19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps9)
+{{% resource_link 4bffb9e1-609a-1c5b-05be-037015198691 "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 23
@@ -103,7 +105,7 @@ Lecture 23
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 10 (optional) (PDF)]({{< baseurl >}}/resources/mit8_06s16_ps10)
+{{% resource_link 1b086269-2bcc-f5c4-1258-ef0abb815bc6 "Problem Set 10 (optional) (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Not Collected
@@ -112,7 +114,7 @@ Not Collected
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[8.06 Term Paper (PDF)]({{< baseurl >}}/resources/mit8_06s16_termpaper)
+{{% resource_link e498e7c0-d2db-9e38-46df-12bfdac3e10e "8.06 Term Paper (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 21

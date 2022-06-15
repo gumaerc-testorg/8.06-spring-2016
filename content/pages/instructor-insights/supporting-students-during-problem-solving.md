@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Aram Harrow shares his approach for helping students
+  move forward when they become stuck during problem solving.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

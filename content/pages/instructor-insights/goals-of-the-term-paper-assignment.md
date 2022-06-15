@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Prof. Aram Harrow describes the term paper assignment
+  in 8.06 Quantum Physics III and shares its two-fold purpose. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

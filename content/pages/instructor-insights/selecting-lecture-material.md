@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Aram Harrow shares how he determines what materials
+  to cover in this fast-paced lecture course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

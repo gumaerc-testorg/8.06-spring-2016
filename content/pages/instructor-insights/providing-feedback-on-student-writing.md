@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Aram Harrow shares his approach for providing
+  students with productive feedback about their writing.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
