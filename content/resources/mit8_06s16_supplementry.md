@@ -7,6 +7,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2016/3e3e804176b9c697b16abd811b5d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Supplementary Notes: Canonical Quantization and Application to the Quant
 uid: 3e3e8041-76b9-c697-b16a-bd811b5dfa89
 ---
 This is a file that contains information regarding 8.06 quantum physics III supplementary notes: canonical quantization and application to the quantum mechanics of a charged particle in a magnetic field.
-

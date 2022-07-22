@@ -6,6 +6,7 @@ file: /courses/8-06-quantum-physics-iii-spring-2016/fc8347d83390a876ee665fbbfd9b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Chapter 3: Entanglement, Density Matrices, and Decoherence'
 uid: fc8347d8-3390-a876-ee66-5fbbfd9b2d7f
 ---
 This is a file that contains information regarding 8.06 quantum physics III chapter 3: entanglement, density matrices, and decoherence. 
-
