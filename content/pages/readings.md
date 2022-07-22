@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of course texts, the schedule of course
+  subjects and subtopics, the reading list, and lecture notes.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 70afdb39-f34a-2f4a-5945-77e12d2db83e
 ---
@@ -42,7 +47,7 @@ Time-independent perturbation theory
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 1]({{< baseurl >}}/resources/mit8_06s16_chap1)
+{{% resource_link d7ef4fca-9822-0af9-0a64-670c57eaf046 "Lecture Notes, Chapter 1" %}}
 
 \[Griffiths\] Chapter 6
 
@@ -75,7 +80,7 @@ The Semi-classical (or WKB) approximation
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 1]({{< baseurl >}}/resources/mit8_06s16_chap1)
+{{% resource_link d7ef4fca-9822-0af9-0a64-670c57eaf046 "Lecture Notes, Chapter 1" %}}
 
 \[Griffiths\] Chapter 8
 
@@ -100,7 +105,7 @@ The adiabatic approximation and Berry's phase
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 2]({{< baseurl >}}/resources/mit8_06s16_chap2)
+{{% resource_link 0c27511c-0967-5d8d-3855-77023328248b "Lecture Notes, Chapter 2" %}}
 
 \[Griffiths\] Chapter 10
 
@@ -126,7 +131,7 @@ Time-dependent perturbation theory
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 2]({{< baseurl >}}/resources/mit8_06s16_chap2)
+{{% resource_link 0c27511c-0967-5d8d-3855-77023328248b "Lecture Notes, Chapter 2" %}}
 
 \[Griffiths\] Chapter 9
 
@@ -153,7 +158,7 @@ Scattering
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 2]({{< baseurl >}}/resources/mit8_06s16_chap2)
+{{% resource_link 0c27511c-0967-5d8d-3855-77023328248b "Lecture Notes, Chapter 2" %}}
 
 \[Griffiths\] Chapter 11
 
@@ -179,7 +184,7 @@ Density Operators
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 3]({{< baseurl >}}/resources/mit8_06s16_chap3)
+{{% resource_link fc8347d8-3390-a876-ee66-5fbbfd9b2d7f "Lecture Notes, Chapter 3" %}}
 
 \[Sakurai\] Chapter 3.4
 
@@ -208,7 +213,7 @@ Introduction to the quantum mechanics of identical particles
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 4]({{< baseurl >}}/resources/mit8_06s16_chap4)
+{{% resource_link 6e02558e-cf4b-7af3-7d2c-dff550fc0f71 "Lecture Notes, Chapter 4" %}}
 
 \[Griffiths\] Chapter 5.1, 5.2
 
@@ -236,7 +241,7 @@ Degenerate Fermi systems
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 4]({{< baseurl >}}/resources/mit8_06s16_chap4)
+{{% resource_link 6e02558e-cf4b-7af3-7d2c-dff550fc0f71 "Lecture Notes, Chapter 4" %}}
 
 \[Griffiths\] Chapter 5.3
 
@@ -262,7 +267,7 @@ Charged particles in a magnetic field
 {{< tdopen >}}
 
 
-[Supplementary notes]({{< baseurl >}}/resources/mit8_06s16_supplementry)
+{{% resource_link 3e3e8041-76b9-c697-b16a-bd811b5dfa89 "Supplementary notes" %}}
 
 \[Griffiths\] Section 10.2.3 (Aharonov-Bohm effect)
 
@@ -293,7 +298,7 @@ Quantum Computing and quantum information
 {{< tdopen >}}
 
 
-[Lecture Notes, Chapter 5]({{< baseurl >}}/resources/mit8_06s16_chap5)
+{{% resource_link 766eb828-09dd-2699-44b1-1e838ed1814b "Lecture Notes, Chapter 5" %}}
 
 
 {{< tdclose >}}

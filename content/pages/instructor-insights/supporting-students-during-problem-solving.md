@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Aram Harrow shares his approach for helping students
+  move forward when they become stuck during problem solving.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
 title: Supporting Students During Problem Solving
 uid: f927fa6a-d0ea-a525-c862-f64d3557f14e

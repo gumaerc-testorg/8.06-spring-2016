@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, goals,
+  prerequisites, texts, grading, problem sets, exams, andd the term paper.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 20374a82-0390-6eb0-d2bb-bd9629fb5e35
 ---

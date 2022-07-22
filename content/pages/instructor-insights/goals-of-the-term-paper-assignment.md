@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'In this section, Prof. Aram Harrow describes the term paper assignment
+  in 8.06 Quantum Physics III and shares its two-fold purpose. '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
 title: Goals of the Term Paper Assignment
 uid: 3afbb869-22cd-4739-092c-81ab6f1bd3d6

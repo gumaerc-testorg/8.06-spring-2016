@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Aram Harrow shares how he determines what materials
+  to cover in this fast-paced lecture course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
 title: Selecting Lecture Material
 uid: 3ab7a216-7e0e-2237-4a6c-b133b74a3073
