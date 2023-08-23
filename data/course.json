@@ -41,8 +41,10 @@
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "33d1cef6-83e9-4f97-9cee-9b40367a81e0",
+  "site_uid": "91ea0b31-8c28-42f5-9a4a-a6e92edfba79",
+  "site_short_id": "8.06-spring-2016",
   "title": "Course Metadata"
 }
