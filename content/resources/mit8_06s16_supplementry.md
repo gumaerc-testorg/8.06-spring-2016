@@ -4,6 +4,7 @@ description: 'This is a file that contains information regarding 8.06 quantum ph
   III supplementary notes: canonical quantization and application to the quantum mechanics
   of a charged particle in a magnetic field.'
 file: /courses/8-06-quantum-physics-iii-spring-2016/3e3e804176b9c697b16abd811b5dfa89_MIT8_06S16_Supplementry.pdf
+file_size: 332212
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
