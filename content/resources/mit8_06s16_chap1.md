@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding 8.06 quantum physics
   III chapter 1: approximate methods for time-independent hamiltonians. '
 file: /courses/8-06-quantum-physics-iii-spring-2016/d7ef4fca98220af90a64670c57eaf046_MIT8_06S16_chap1.pdf
+file_size: 511250
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
