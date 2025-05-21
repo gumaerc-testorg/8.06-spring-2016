@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding 8.06 quantum physics
   III chapter 2: time-dependent approximation methods.'
-file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2016/0c27511c09675d8d385577023328248b_MIT8_06S16_chap2.pdf
+file: /courses/8-06-quantum-physics-iii-spring-2016/0c27511c09675d8d385577023328248b_MIT8_06S16_chap2.pdf
 file_size: 598981
 file_type: application/pdf
 learning_resource_types:
