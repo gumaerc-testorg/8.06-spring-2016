@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding quantum physics III
   term paper.
-file: /courses/8-06-quantum-physics-iii-spring-2016/e498e7c0d2db9e3846df12bfdac3e10e_MIT8_06S16_TermPaper.pdf
+file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2016/e498e7c0d2db9e3846df12bfdac3e10e_MIT8_06S16_TermPaper.pdf
 file_size: 231765
 file_type: application/pdf
 learning_resource_types:
